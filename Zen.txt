@@ -1,1 +1,1 @@
-5.Flat is better than nested.
+6.Sparse is better than dense.
