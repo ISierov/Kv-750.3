@@ -1,1 +1,2 @@
 The Zen of Python
+3.Simple is better than complex.
