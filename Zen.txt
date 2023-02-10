@@ -1,1 +1,1 @@
-New file
+The Zen of Python
