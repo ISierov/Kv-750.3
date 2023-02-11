@@ -9,11 +9,10 @@ exponent = a ** b
 floor = a // b
 remainder = a % b
 
-
-print("A + B =", sum)
-print("A - B =", difference)
-print("A * B =", product)
-print("A / B =", quotient)
-print("A ** B =", exponent)
-print("A // B =", floor)
-print("A % B =", remainder)
+print(f"A + B = {sum}")
+print(f"A - B = {difference}")
+print(f"A * B = {product}")
+print(f"A / B = {quotient}")
+print(f"A ** B = {exponent}")
+print(f"A // B = {floor}")
+print(f"A % B = {remainder}")
