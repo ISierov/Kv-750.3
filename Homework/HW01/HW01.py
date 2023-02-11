@@ -5,4 +5,4 @@ age = int(input(name + ", how old are you? "))  # input user's age into var
 print("You are " + str(age) + " years old.")  # print var containing user's age input
 
 location = input("Where do you live, " + name + "? ")  # input user's location into var
-print("You live in " + location)
+print("You live in " + location)  # print var containing user's location
