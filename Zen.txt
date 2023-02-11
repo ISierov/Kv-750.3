@@ -1,2 +1,4 @@
-The Zen of Python
-3.Simple is better than complex.
+
+
+Simple is better than complex.
+Complex is better than complicated.
