@@ -1,7 +1,10 @@
 The Zen of Python, by Tim Peters
 
 1.Beautiful is better than ugly.
-Simple is better than complex.
-Complex is better than complicated.
+2.
+3.Simple is better than complex.
+4.Complex is better than complicated.
+5.Flat is better than nested.
+
 
 
