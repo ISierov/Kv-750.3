@@ -1,6 +1,0 @@
-name = input("What is your name?\n")
-age = input("How old are you?\n")
-city = input("Where do you live?\n")
-print("Hello, {insert_name}!".format(insert_name=name))
-print(f"Your age is {age}.")
-print("You live in {}.".format(city))
