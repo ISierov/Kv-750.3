@@ -5,19 +5,4 @@ The Zen of Python, by Tim Peters
 3.Simple is better than complex.
 4.Complex is better than complicated.
 5.Flat is better than nested.
-<<<<<<< HEAD
-
-
 6.Sparse is better than dense!
-
-
-
-
-
-
-
->>>>>>> Stas_Zh
-
-
-
-
