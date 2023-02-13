@@ -1,1 +1,10 @@
 The Zen of Python
+
+
+
+
+
+
+
+
+Errors should never pass silently.
