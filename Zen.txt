@@ -9,4 +9,12 @@ The Zen of Python, by Tim Peters
 
 
 
+
 10.Errors should never pass silently.
+
+
+
+
+
+
+15.Now is better than never.
