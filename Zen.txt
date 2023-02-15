@@ -21,4 +21,10 @@ The Zen of Python, by Tim Peters
 
 
 
+
 26.Readability counts.
+
+
+
+44.Readability counts.
+
