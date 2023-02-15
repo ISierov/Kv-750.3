@@ -6,4 +6,5 @@ The Zen of Python
 
 6.Sparse is better than dense.
 
+44.Readability counts.
 
