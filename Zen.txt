@@ -18,3 +18,7 @@ The Zen of Python, by Tim Peters
 
 
 15.Now is better than never.
+
+
+
+26.Readability counts.
