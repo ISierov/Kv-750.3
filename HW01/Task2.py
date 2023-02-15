@@ -1,0 +1,10 @@
+a = int(input("First num \n"))
+b = int(input("Second num \n"))
+
+print(f"A + B =  {a + b}")
+print(f"A - B = {a - b}")
+print(f"A * B = {a * b}")
+print(f"A / B = {a / b}")
+print(f"A ** B = {a ** b}")
+print(f"A // B = {a // b}")
+print(f"A % B = {a % b}")
