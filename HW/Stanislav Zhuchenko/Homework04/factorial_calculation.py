@@ -3,9 +3,9 @@ import math
 number = int(input('Please input the integer number more or equal 0: \nn = '))
 
 
-def factorial(int: number):
+def factorial(n: int) -> int:
     res = 1
-    for i in range(1, number+1):
+    for i in range(1, n+1):
         res *= i
     return res
 
