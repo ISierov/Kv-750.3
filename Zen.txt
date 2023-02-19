@@ -1,4 +1,4 @@
 The Zen of Python
 3.Simple is better than complex.
-
+6.Sparse is better than dense.
 26.Readability counts.
