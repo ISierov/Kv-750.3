@@ -1,8 +1,8 @@
-The Zen of Python, by Tim Peters
+The Zen of Python
 
-1.Beautiful is better than ugly.
-2.Explicit is better than implicit.
+
 3.Simple is better than complex.
+
 4.Complex is better than complicated.
 5.Flat is better than nested.
 6.Sparse is better than dense!
@@ -25,5 +25,3 @@ The Zen of Python, by Tim Peters
 26.Readability counts.
 
 
-
-44.Readability counts.
