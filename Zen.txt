@@ -3,6 +3,7 @@ The Zen of Python
 
 3.Simple is better than complex.
 
+
 4.Complex is better than complicated.
 5.Flat is better than nested.
 6.Sparse is better than dense!
@@ -24,4 +25,6 @@ The Zen of Python
 
 26.Readability counts.
 
+26.Readability counts.
+23.Complex is better than complicated.
 
