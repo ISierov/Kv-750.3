@@ -5,10 +5,10 @@ to a floating type
 """
 
 arr_of_integer = [x for x in range(10)]
-print('integer list:', arr_of_integer)
+print('integer list:', *arr_of_integer)
 
 arr_of_float = [float(y) for y in arr_of_integer]
-print('float list:', arr_of_float)
+print('float list:', *arr_of_float)
 
 
 """
