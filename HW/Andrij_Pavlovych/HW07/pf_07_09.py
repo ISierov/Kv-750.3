@@ -6,6 +6,10 @@
 # Note: If the number is a multiple of both 3 and 5, only count it once.
 
 def solution(number):
-    return sum([i for i in range(number) if not i % 3 or not i % 5 ])
+    # return sum(i for i in range(number) if not i % 3 or not i % 5 )
+    return sum(filter(lambda i: i % 3 == 0 or i % 5 == 0, range(number)))
 
-print(solution(10))
+passed_number = int(input('Enter the number: '))
+print(solution(passed_number))
+
+
