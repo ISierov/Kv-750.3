@@ -19,8 +19,8 @@ def get_weather(place):
           + ('\n' + 'heat_index: ' + str(w.heat_index) if w.heat_index is not None else "")
 
     label["text"] = res
-#######
 
+#######
 HEIGHT = 350
 WIDTH = 450
 
