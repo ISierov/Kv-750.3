@@ -9,7 +9,7 @@ for i in range(1, 11, 1):
     full_range.add(i)
     if i % 2 == 0:
         even_div2.add(i)
-    if i % 3 == 0:
+    elif i % 3 == 0:
         odd_div3.add(i)
 # Output results
 print("Even numbers that are divisible by 2:", sorted(even_div2))
