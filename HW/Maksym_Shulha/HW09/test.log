@@ -1,0 +1,324 @@
+Traceback (most recent call last):
+  File "/Users/maks/Documents/PyCharm_git/Kv-750.3/HW/Maksym_Shulha/HW09/HW9_practical_3.py", line 22, in get_weather
+    observation = mgr.weather_at_place(city)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/weatherapi25/weather_manager.py", line 53, in weather_at_place
+    _, json_data = self.http_client.get_json(OBSERVATION_URI, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 158, in get_json
+    HttpClient.check_status_code(resp.status_code, resp.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 315, in check_status_code
+    raise exceptions.NotFoundError('Unable to find the resource')
+pyowm.commons.exceptions.NotFoundError: Unable to find the resource
+Traceback (most recent call last):
+  File "/Users/maks/Documents/PyCharm_git/Kv-750.3/HW/Maksym_Shulha/HW09/HW9_practical_3.py", line 22, in get_weather
+    observation = mgr.weather_at_place(city)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/weatherapi25/weather_manager.py", line 53, in weather_at_place
+    _, json_data = self.http_client.get_json(OBSERVATION_URI, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 158, in get_json
+    HttpClient.check_status_code(resp.status_code, resp.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 315, in check_status_code
+    raise exceptions.NotFoundError('Unable to find the resource')
+pyowm.commons.exceptions.NotFoundError: Unable to find the resource
+Traceback (most recent call last):
+  File "/Users/maks/Documents/PyCharm_git/Kv-750.3/HW/Maksym_Shulha/HW09/HW9_practical_3.py", line 22, in get_weather
+    observation = mgr.weather_at_place(city)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/weatherapi25/weather_manager.py", line 53, in weather_at_place
+    _, json_data = self.http_client.get_json(OBSERVATION_URI, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 158, in get_json
+    HttpClient.check_status_code(resp.status_code, resp.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 315, in check_status_code
+    raise exceptions.NotFoundError('Unable to find the resource')
+pyowm.commons.exceptions.NotFoundError: Unable to find the resource
+Traceback (most recent call last):
+  File "/Users/maks/Documents/PyCharm_git/Kv-750.3/HW/Maksym_Shulha/HW09/HW9_practical_3.py", line 22, in get_weather
+    observation = mgr.weather_at_place(city)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/weatherapi25/weather_manager.py", line 53, in weather_at_place
+    _, json_data = self.http_client.get_json(OBSERVATION_URI, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 158, in get_json
+    HttpClient.check_status_code(resp.status_code, resp.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 315, in check_status_code
+    raise exceptions.NotFoundError('Unable to find the resource')
+pyowm.commons.exceptions.NotFoundError: Unable to find the resource
+Traceback (most recent call last):
+  File "/Users/maks/Documents/PyCharm_git/Kv-750.3/HW/Maksym_Shulha/HW09/HW9_practical_3.py", line 22, in get_weather
+    observation = mgr.weather_at_place(city)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/weatherapi25/weather_manager.py", line 53, in weather_at_place
+    _, json_data = self.http_client.get_json(OBSERVATION_URI, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 158, in get_json
+    HttpClient.check_status_code(resp.status_code, resp.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 315, in check_status_code
+    raise exceptions.NotFoundError('Unable to find the resource')
+pyowm.commons.exceptions.NotFoundError: Unable to find the resource
+Traceback (most recent call last):
+  File "/Users/maks/Documents/PyCharm_git/Kv-750.3/HW/Maksym_Shulha/HW09/HW9_practical_3.py", line 22, in get_weather
+    observation = mgr.weather_at_place(city)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/weatherapi25/weather_manager.py", line 53, in weather_at_place
+    _, json_data = self.http_client.get_json(OBSERVATION_URI, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 158, in get_json
+    HttpClient.check_status_code(resp.status_code, resp.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 315, in check_status_code
+    raise exceptions.NotFoundError('Unable to find the resource')
+pyowm.commons.exceptions.NotFoundError: Unable to find the resource
+Traceback (most recent call last):
+  File "/Users/maks/Documents/PyCharm_git/Kv-750.3/HW/Maksym_Shulha/HW09/HW9_practical_3.py", line 14, in get_weather
+    observation = mgr.weather_at_place(city)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/weatherapi25/weather_manager.py", line 53, in weather_at_place
+    _, json_data = self.http_client.get_json(OBSERVATION_URI, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 158, in get_json
+    HttpClient.check_status_code(resp.status_code, resp.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 315, in check_status_code
+    raise exceptions.NotFoundError('Unable to find the resource')
+pyowm.commons.exceptions.NotFoundError: Unable to find the resource
+Traceback (most recent call last):
+  File "/Users/maks/Documents/PyCharm_git/Kv-750.3/HW/Maksym_Shulha/HW09/HW9_practical_3.py", line 13, in get_weather
+    observation = mgr.weather_at_place(city)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/weatherapi25/weather_manager.py", line 53, in weather_at_place
+    _, json_data = self.http_client.get_json(OBSERVATION_URI, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 158, in get_json
+    HttpClient.check_status_code(resp.status_code, resp.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 315, in check_status_code
+    raise exceptions.NotFoundError('Unable to find the resource')
+pyowm.commons.exceptions.NotFoundError: Unable to find the resource
+Traceback (most recent call last):
+  File "/Users/maks/Documents/PyCharm_git/Kv-750.3/HW/Maksym_Shulha/HW09/HW9_practical_3.py", line 13, in get_weather
+    observation = mgr.weather_at_place(city)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/weatherapi25/weather_manager.py", line 53, in weather_at_place
+    _, json_data = self.http_client.get_json(OBSERVATION_URI, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 158, in get_json
+    HttpClient.check_status_code(resp.status_code, resp.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 315, in check_status_code
+    raise exceptions.NotFoundError('Unable to find the resource')
+pyowm.commons.exceptions.NotFoundError: Unable to find the resource
+Traceback (most recent call last):
+  File "/Users/maks/Documents/PyCharm_git/Kv-750.3/HW/Maksym_Shulha/HW09/HW9_practical_3.py", line 13, in get_weather
+    observation = mgr.weather_at_place(city)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/weatherapi25/weather_manager.py", line 53, in weather_at_place
+    _, json_data = self.http_client.get_json(OBSERVATION_URI, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 158, in get_json
+    HttpClient.check_status_code(resp.status_code, resp.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 315, in check_status_code
+    raise exceptions.NotFoundError('Unable to find the resource')
+pyowm.commons.exceptions.NotFoundError: Unable to find the resource
+Traceback (most recent call last):
+  File "/Users/maks/Documents/PyCharm_git/Kv-750.3/HW/Maksym_Shulha/HW09/HW9_practical_3.py", line 13, in get_weather
+    observation = mgr.weather_at_place(city)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/weatherapi25/weather_manager.py", line 53, in weather_at_place
+    _, json_data = self.http_client.get_json(OBSERVATION_URI, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 158, in get_json
+    HttpClient.check_status_code(resp.status_code, resp.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 315, in check_status_code
+    raise exceptions.NotFoundError('Unable to find the resource')
+pyowm.commons.exceptions.NotFoundError: Unable to find the resource
+Traceback (most recent call last):
+  File "/Users/maks/Documents/PyCharm_git/Kv-750.3/HW/Maksym_Shulha/HW09/HW9_practical_3.py", line 13, in get_weather
+    observation = mgr.weather_at_place(city)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/weatherapi25/weather_manager.py", line 53, in weather_at_place
+    _, json_data = self.http_client.get_json(OBSERVATION_URI, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 158, in get_json
+    HttpClient.check_status_code(resp.status_code, resp.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 315, in check_status_code
+    raise exceptions.NotFoundError('Unable to find the resource')
+pyowm.commons.exceptions.NotFoundError: Unable to find the resource
+Traceback (most recent call last):
+  File "/Users/maks/Documents/PyCharm_git/Kv-750.3/HW/Maksym_Shulha/HW09/HW9_practical_3.py", line 13, in get_weather
+    observation = mgr.weather_at_place(city)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/weatherapi25/weather_manager.py", line 53, in weather_at_place
+    _, json_data = self.http_client.get_json(OBSERVATION_URI, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 158, in get_json
+    HttpClient.check_status_code(resp.status_code, resp.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 315, in check_status_code
+    raise exceptions.NotFoundError('Unable to find the resource')
+pyowm.commons.exceptions.NotFoundError: Unable to find the resource
+Traceback (most recent call last):
+  File "/Users/maks/Documents/PyCharm_git/Kv-750.3/HW/Maksym_Shulha/HW09/HW9_practical_3.py", line 13, in get_weather
+    observation = mgr.weather_at_place(city)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/weatherapi25/weather_manager.py", line 53, in weather_at_place
+    _, json_data = self.http_client.get_json(OBSERVATION_URI, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 158, in get_json
+    HttpClient.check_status_code(resp.status_code, resp.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 315, in check_status_code
+    raise exceptions.NotFoundError('Unable to find the resource')
+pyowm.commons.exceptions.NotFoundError: Unable to find the resource
+Traceback (most recent call last):
+  File "/Users/maks/Documents/PyCharm_git/Kv-750.3/HW/Maksym_Shulha/HW09/HW9_practical_3.py", line 13, in get_weather
+    observation = mgr.weather_at_place(city)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/weatherapi25/weather_manager.py", line 53, in weather_at_place
+    _, json_data = self.http_client.get_json(OBSERVATION_URI, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 158, in get_json
+    HttpClient.check_status_code(resp.status_code, resp.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 315, in check_status_code
+    raise exceptions.NotFoundError('Unable to find the resource')
+pyowm.commons.exceptions.NotFoundError: Unable to find the resource
+Traceback (most recent call last):
+  File "/Users/maks/Documents/PyCharm_git/Kv-750.3/HW/Maksym_Shulha/HW09/HW9_practical_3.py", line 12, in get_weather
+    observation = mgr.weather_at_place(city)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/weatherapi25/weather_manager.py", line 53, in weather_at_place
+    _, json_data = self.http_client.get_json(OBSERVATION_URI, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 158, in get_json
+    HttpClient.check_status_code(resp.status_code, resp.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 315, in check_status_code
+    raise exceptions.NotFoundError('Unable to find the resource')
+pyowm.commons.exceptions.NotFoundError: Unable to find the resource
+Traceback (most recent call last):
+  File "/Users/maks/Documents/PyCharm_git/Kv-750.3/HW/Maksym_Shulha/HW09/HW9_practical_3.py", line 12, in get_weather
+    observation = mgr.weather_at_place(city)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/weatherapi25/weather_manager.py", line 53, in weather_at_place
+    _, json_data = self.http_client.get_json(OBSERVATION_URI, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 158, in get_json
+    HttpClient.check_status_code(resp.status_code, resp.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 315, in check_status_code
+    raise exceptions.NotFoundError('Unable to find the resource')
+pyowm.commons.exceptions.NotFoundError: Unable to find the resource
+Traceback (most recent call last):
+  File "/Users/maks/Documents/PyCharm_git/Kv-750.3/HW/Maksym_Shulha/HW09/HW9_practical_3.py", line 12, in get_weather
+    observation = mgr.weather_at_place(city)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/weatherapi25/weather_manager.py", line 53, in weather_at_place
+    _, json_data = self.http_client.get_json(OBSERVATION_URI, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 158, in get_json
+    HttpClient.check_status_code(resp.status_code, resp.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 315, in check_status_code
+    raise exceptions.NotFoundError('Unable to find the resource')
+pyowm.commons.exceptions.NotFoundError: Unable to find the resource
+Traceback (most recent call last):
+  File "/Users/maks/Documents/PyCharm_git/Kv-750.3/HW/Maksym_Shulha/HW09/HW9_practical_3.py", line 13, in get_weather
+    observation = mgr.weather_at_place(city)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/weatherapi25/weather_manager.py", line 53, in weather_at_place
+    _, json_data = self.http_client.get_json(OBSERVATION_URI, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 158, in get_json
+    HttpClient.check_status_code(resp.status_code, resp.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 315, in check_status_code
+    raise exceptions.NotFoundError('Unable to find the resource')
+pyowm.commons.exceptions.NotFoundError: Unable to find the resource
+Traceback (most recent call last):
+  File "/Users/maks/Documents/PyCharm_git/Kv-750.3/HW/Maksym_Shulha/HW09/HW9_practical_3.py", line 13, in get_weather
+    observation = mgr.weather_at_place(city)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/weatherapi25/weather_manager.py", line 53, in weather_at_place
+    _, json_data = self.http_client.get_json(OBSERVATION_URI, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 158, in get_json
+    HttpClient.check_status_code(resp.status_code, resp.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 315, in check_status_code
+    raise exceptions.NotFoundError('Unable to find the resource')
+pyowm.commons.exceptions.NotFoundError: Unable to find the resource
+Traceback (most recent call last):
+  File "/Users/maks/Documents/PyCharm_git/Kv-750.3/HW/Maksym_Shulha/HW09/HW9_practical_3.py", line 13, in get_weather
+    observation = mgr.weather_at_place(city)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/weatherapi25/weather_manager.py", line 53, in weather_at_place
+    _, json_data = self.http_client.get_json(OBSERVATION_URI, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 158, in get_json
+    HttpClient.check_status_code(resp.status_code, resp.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 315, in check_status_code
+    raise exceptions.NotFoundError('Unable to find the resource')
+pyowm.commons.exceptions.NotFoundError: Unable to find the resource
+Traceback (most recent call last):
+  File "/Users/maks/Documents/PyCharm_git/Kv-750.3/HW/Maksym_Shulha/HW09/HW9_practical_3.py", line 13, in get_weather
+    observation = mgr.weather_at_place(city)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/weatherapi25/weather_manager.py", line 53, in weather_at_place
+    _, json_data = self.http_client.get_json(OBSERVATION_URI, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 158, in get_json
+    HttpClient.check_status_code(resp.status_code, resp.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 315, in check_status_code
+    raise exceptions.NotFoundError('Unable to find the resource')
+pyowm.commons.exceptions.NotFoundError: Unable to find the resource
+Traceback (most recent call last):
+  File "/Users/maks/Documents/PyCharm_git/Kv-750.3/HW/Maksym_Shulha/HW09/HW9_practical_3.py", line 13, in get_weather
+    observation = mgr.weather_at_place(city)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/weatherapi25/weather_manager.py", line 53, in weather_at_place
+    _, json_data = self.http_client.get_json(OBSERVATION_URI, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 158, in get_json
+    HttpClient.check_status_code(resp.status_code, resp.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 315, in check_status_code
+    raise exceptions.NotFoundError('Unable to find the resource')
+pyowm.commons.exceptions.NotFoundError: Unable to find the resource
+Traceback (most recent call last):
+  File "/Users/maks/Documents/PyCharm_git/Kv-750.3/HW/Maksym_Shulha/HW09/HW9_practical_3.py", line 13, in get_weather
+    observation = mgr.weather_at_place(city)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/weatherapi25/weather_manager.py", line 53, in weather_at_place
+    _, json_data = self.http_client.get_json(OBSERVATION_URI, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 158, in get_json
+    HttpClient.check_status_code(resp.status_code, resp.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 315, in check_status_code
+    raise exceptions.NotFoundError('Unable to find the resource')
+pyowm.commons.exceptions.NotFoundError: Unable to find the resource
+Traceback (most recent call last):
+  File "/Users/maks/Documents/PyCharm_git/Kv-750.3/HW/Maksym_Shulha/HW09/HW9_practical_3.py", line 13, in get_weather
+    observation = mgr.weather_at_place(city)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/weatherapi25/weather_manager.py", line 53, in weather_at_place
+    _, json_data = self.http_client.get_json(OBSERVATION_URI, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 158, in get_json
+    HttpClient.check_status_code(resp.status_code, resp.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 315, in check_status_code
+    raise exceptions.NotFoundError('Unable to find the resource')
+pyowm.commons.exceptions.NotFoundError: Unable to find the resource
+Traceback (most recent call last):
+  File "/Users/maks/Documents/PyCharm_git/Kv-750.3/HW/Maksym_Shulha/HW09/HW9_practical_3.py", line 13, in get_weather
+    observation = mgr.weather_at_place(city)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/weatherapi25/weather_manager.py", line 53, in weather_at_place
+    _, json_data = self.http_client.get_json(OBSERVATION_URI, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 158, in get_json
+    HttpClient.check_status_code(resp.status_code, resp.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 315, in check_status_code
+    raise exceptions.NotFoundError('Unable to find the resource')
+pyowm.commons.exceptions.NotFoundError: Unable to find the resource
+Traceback (most recent call last):
+  File "/Users/maks/Documents/PyCharm_git/Kv-750.3/HW/Maksym_Shulha/HW09/HW9_practical_3.py", line 13, in get_weather
+    observation = mgr.weather_at_place(city)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/weatherapi25/weather_manager.py", line 53, in weather_at_place
+    _, json_data = self.http_client.get_json(OBSERVATION_URI, params=params)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 158, in get_json
+    HttpClient.check_status_code(resp.status_code, resp.text)
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pyowm/commons/http_client.py", line 315, in check_status_code
+    raise exceptions.NotFoundError('Unable to find the resource')
+pyowm.commons.exceptions.NotFoundError: Unable to find the resource
