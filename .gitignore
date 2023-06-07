@@ -71,6 +71,9 @@ instance/
 # Sphinx documentation
 docs/_build/
 
+.DS_Store
+.idea/
+
 # PyBuilder
 target/
 
@@ -127,5 +130,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-HW/.DS_Store
+#PyCharm
+.idea/
+work.py
 .DS_Store
