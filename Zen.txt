@@ -1,6 +1,7 @@
 The Zen of Python
 
-
+1.Beautiful is better than ugly.
+2.Explicit is better than implicit.
 3.Simple is better than complex.
 
 4.Complex is better than complicated.
@@ -25,4 +26,7 @@ The Zen of Python
 
 26.Readability counts.
 23.Complex is better than complicated.
+29.Errors should never pass silently.
 
+
+44.Readability counts.
