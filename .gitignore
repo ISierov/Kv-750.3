@@ -134,3 +134,4 @@ dmypy.json
 .idea/
 work.py
 .DS_Store
+*.txt
