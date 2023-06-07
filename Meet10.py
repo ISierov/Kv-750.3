@@ -26,23 +26,58 @@
 # MyClass.b_add()
 #
 
-class Animal:
-    def __init__(self, name):    # Constructor of the class
-        self.name = name
-    def talk(self):              # Abstract method, defined by convention only
-        raise NotImplementedError("Subclass must implement abstract method")
+# class Animal:
+#     def __init__(self, name):    # Constructor of the class
+#         self.name = name
+#     def talk(self):              # Abstract method, defined by convention only
+#         raise NotImplementedError("Subclass must implement abstract method")
+#
+# class Cat(Animal):
+#     def talk(self):
+#         return 'Meow!'
+#
+# class Dog(Animal):
+#     def talk(self):
+#         return 'Woof! Woof!'
+#
+# animals = [Cat('Missy'),
+#            Cat('Mr. Mistoffelees'),
+#            Dog('Lassie')]
+#
+# for animal in animals:
+#     print (animal.name + ': ' + animal.talk())
 
-class Cat(Animal):
-    def talk(self):
-        return 'Meow!'
 
-class Dog(Animal):
-    def talk(self):
-        return 'Woof! Woof!'
+class Bank_acc:
+    def __init__(self, id, balance):
+        self.__id = id
+        self.__balance = balance
 
-animals = [Cat('Missy'),
-           Cat('Mr. Mistoffelees'),
-           Dog('Lassie')]
+    def set_id(self, id):
+        if float(id) < 0 or not id.isnumeric():
+            raise ValueError()
+        else:
+            self.__id = id
 
-for animal in animals:
-    print (animal.name + ': ' + animal.talk())
+    def get_id(self):
+        return self.__id
+
+    @property
+    def balance(self):
+        return self.__balance
+
+    @balance.setter
+    def balance(self, balance):
+        if (balance < 0) or not balance.isnumeric():
+            raise ValueError()
+        else:
+            self.__balance = balance
+
+    def __repr__(self):
+        return f'For {self.__id}: {self.__balance}\n'
+
+if __name__ == '__main__':
+    my = Bank_acc('1234', '1234.00')
+    print(my)
+    my.set_id('1234567')
+    print(my)
